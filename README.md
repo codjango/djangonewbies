@@ -1,0 +1,2 @@
+# djangonewbies
+For django newbies.
