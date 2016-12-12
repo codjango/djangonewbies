@@ -7,3 +7,5 @@ inside YourVirtualenv:
 
 git clone https://github.com/codjango/djangonewbies.git
 
+hosted in
+haroldgomez777.pythonanywhere.com
