@@ -16,9 +16,10 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 from plan.views import Index
+from thirdauth.views import Lander
 
 urlpatterns = [
     
-    url(r'',Index.as_view(), name='index'),
+    url(r'',Lander.as_view(), name='lander'),
     url(r'^admin/', admin.site.urls)
 ]
